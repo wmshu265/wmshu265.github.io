@@ -491,3 +491,5 @@ rubiconproject.com, 13856, RESELLER, 0bfd66d529a55807
 smartadserver.com, 1692, RESELLER
 indexexchange.com, 198417, RESELLER, 50b1c356f2c5c8fc
 loopme.com, 11635, RESELLER, 6c8d5f95897a5a3b
+yeahmobi.com, 164641bf416a90, DIRECT
+zmaticoo.com, 164641bf416a90, DIRECT
